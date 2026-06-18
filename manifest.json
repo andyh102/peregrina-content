@@ -1,10 +1,12 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-18",
   "paths": [
     "consolation",
     "ignatian",
     "nature",
-    "rest"
+    "pilgrimage",
+    "rest",
+    "scripture"
   ]
 }
