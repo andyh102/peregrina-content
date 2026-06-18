@@ -4,265 +4,417 @@
     "title": "The Shedding",
     "theme": "Release",
     "reflection": "The deciduous tree does not mourn its leaves. It releases them as part of a cycle it has always known — a cycle older than any single season, older than memory.\n\nToday your body participates in this ancient rhythm of release. You are not broken; you are seasonal. What are you letting fall today? Let it go with the ease of leaves.",
-    "closing": "Like the tree in autumn, I release what has finished its season. I trust the bare branch. New growth will come. Amen."
+    "closing": "Like the tree in autumn, I release what has finished its season. I trust the bare branch. New growth will come. Amen.",
+    "scripture": {
+      "text": "To everything there is a season, and a time for every matter under heaven.",
+      "citation": "ECCLESIASTES 3:1"
+    }
   },
   {
     "day": 2,
     "title": "Fallow Ground",
     "theme": "Rest",
     "reflection": "In the old agricultural tradition, fields were left fallow — not neglected, but deliberately rested. The soil that rests rebuilds what exhaustion depletes. This is not laziness; it is wisdom passed down through generations of those who worked the earth.\n\nYou are fallow today. Do not apologise for it. Something in you is being rebuilt.",
-    "closing": "I am fallow ground. Let the resting be as sacred as the growing. Restore in me what only stillness can restore. Amen."
+    "closing": "I am fallow ground. Let the resting be as sacred as the growing. Restore in me what only stillness can restore. Amen.",
+    "scripture": {
+      "text": "He makes me lie down in green pastures; he leads me beside still waters.",
+      "citation": "PSALM 23:2"
+    }
   },
   {
     "day": 3,
     "title": "The Root System",
     "theme": "Depth",
     "reflection": "What we see of a tree is less than half of what the tree is. Below the soil, roots extend and deepen — feeding, anchoring, reaching — invisible and essential.\n\nIn your heaviest days, your roots are doing their work. You may not feel it. The tree does not feel its roots. But they hold.",
-    "closing": "Hold me from below, as roots hold the tree. What I cannot see in myself, you see. What I cannot feel, you sustain. Amen."
+    "closing": "Hold me from below, as roots hold the tree. What I cannot see in myself, you see. What I cannot feel, you sustain. Amen.",
+    "scripture": {
+      "text": "Out of the depths I cry to you, O Lord.",
+      "citation": "PSALM 130:1"
+    }
   },
   {
     "day": 4,
     "title": "The Tide Turns",
     "theme": "Rhythm",
     "reflection": "The tide does not fight its turning. It simply moves — in, and then out, and then in again — obeying a pull so ancient it predates human naming.\n\nYour body moves in tides too. Today the tide is going out, drawing back from the shore. This is not loss. The tide will return. It always returns.",
-    "closing": "I am in the outward tide. I do not resist. I trust the pull that turns all tides back toward the shore. Amen."
+    "closing": "I am in the outward tide. I do not resist. I trust the pull that turns all tides back toward the shore. Amen.",
+    "scripture": {
+      "text": "Day to day pours forth speech, and night to night reveals knowledge.",
+      "citation": "PSALM 19:2"
+    }
   },
   {
     "day": 5,
     "title": "Stone in Water",
     "theme": "Grief",
     "reflection": "Drop a stone into still water and watch the rings spread — wider and wider, until they reach the edge and return. Grief moves like this. It radiates outward, then comes back.\n\nLet your grief move today. Do not dam it up. Like rings on water, it will spread and then settle. The water becomes still again. It always does.",
-    "closing": "My grief moves like water. I let it move. I trust that stillness lies on the other side of the ripple. Amen."
+    "closing": "My grief moves like water. I let it move. I trust that stillness lies on the other side of the ripple. Amen.",
+    "scripture": {
+      "text": "Blessed are those who mourn, for they shall be comforted.",
+      "citation": "MATTHEW 5:4"
+    }
   },
   {
     "day": 6,
     "title": "First Green",
     "theme": "Turning",
     "reflection": "Even in the grey of late winter, the first green appears — tentative, almost invisible, pushing through cold ground that does not yet feel ready.\n\nSomething in you is beginning to turn. You may barely notice it. It is there nonetheless. Look for the first green today: a small appetite, a sliver of hope, a returning curiosity.",
-    "closing": "I look for the first green. I receive it without grasping. The turning is already under way. Amen."
+    "closing": "I look for the first green. I receive it without grasping. The turning is already under way. Amen.",
+    "scripture": {
+      "text": "Return to the Lord your God, for he is gracious and compassionate.",
+      "citation": "JOEL 2:13"
+    }
   },
   {
     "day": 7,
     "title": "The Edge of the Forest",
     "theme": "Threshold",
     "reflection": "The edge of the forest is not one thing or the other — not open field, not dense wood. It is a transition zone, where light and shadow meet, and where, ecologists note, the greatest diversity of life is found.\n\nYou stand at an edge today. In the between-space, there is more life than anywhere else. Stay a little longer in the threshold.",
-    "closing": "I stand at the edge without rushing to either side. Let me find the richness that lives in the in-between. Amen."
+    "closing": "I stand at the edge without rushing to either side. Let me find the richness that lives in the in-between. Amen.",
+    "scripture": {
+      "text": "See, the winter is past; the rains are over and gone. Flowers appear on the earth.",
+      "citation": "SONG OF SONGS 2:11–12"
+    }
   },
   {
     "day": 8,
     "title": "Thaw",
     "theme": "Opening",
     "reflection": "When the ground thaws after winter, it does not open all at once. It softens in layers — surface first, then deeper, then deeper still. The thaw takes time, and it cannot be forced.\n\nYour energy is returning. Let it thaw at its own pace. Do not demand that all the layers open at once. Trust the process of slow softening.",
-    "closing": "I thaw at my own pace. I do not force what is not yet ready. The warmth will reach the deeper layers. Amen."
+    "closing": "I thaw at my own pace. I do not force what is not yet ready. The warmth will reach the deeper layers. Amen.",
+    "scripture": {
+      "text": "The Lord is my light and my salvation; whom shall I fear?",
+      "citation": "PSALM 27:1"
+    }
   },
   {
     "day": 9,
     "title": "Birdsong",
     "theme": "Curiosity",
     "reflection": "In early spring, birdsong returns before the leaves do — a sound that arrives before the visible evidence of change. The birds know something the bare trees do not yet show.\n\nYour curiosity is birdsong. It arrives before the evidence is visible. Follow it. Something is becoming available that has not yet shown itself fully.",
-    "closing": "I follow the birdsong, even before I can see what it heralds. Lead me toward what is becoming. Amen."
+    "closing": "I follow the birdsong, even before I can see what it heralds. Lead me toward what is becoming. Amen.",
+    "scripture": {
+      "text": "Consider how the wild flowers grow. They do not labour or spin.",
+      "citation": "LUKE 12:27"
+    }
   },
   {
     "day": 10,
     "title": "After Rain",
     "theme": "Renewal",
     "reflection": "After rain, the world smells different. Something in the soil releases — petrichor, the ancient scent of earth meeting water — and everything feels briefly, unmistakably renewed.\n\nLet yourself be renewed today. You do not have to earn this feeling. It arrives, like rain, as gift.",
-    "closing": "After the rains of the past days, I breathe in renewal. It is not earned. It is given. I receive it. Amen."
+    "closing": "After the rains of the past days, I breathe in renewal. It is not earned. It is given. I receive it. Amen.",
+    "scripture": {
+      "text": "The steadfast love of the Lord never ceases; his mercies never come to an end; they are new every morning.",
+      "citation": "LAMENTATIONS 3:22–23"
+    }
   },
   {
     "day": 11,
     "title": "Pollination",
     "theme": "Creativity",
     "reflection": "The bee does not know it is pollinating. It is simply doing what it loves — following the scent of what draws it — and in doing so, participates in a generativity far larger than itself.\n\nYour creativity today does not need to know its full purpose. Follow what draws you. The generativity will take care of itself.",
-    "closing": "I follow what draws me, trusting that the larger purpose is already being served. Let me create freely today. Amen."
+    "closing": "I follow what draws me, trusting that the larger purpose is already being served. Let me create freely today. Amen.",
+    "scripture": {
+      "text": "The earth is the Lord’s, and everything in it.",
+      "citation": "PSALM 24:1"
+    }
   },
   {
     "day": 12,
     "title": "The Open Flower",
     "theme": "Openness",
     "reflection": "A flower does not open by effort. It opens because the conditions are right — warmth, light, time. And when it opens, it does not apologise for its fullness.\n\nYou are opening. Do not minimise or apologise for what is unfolding in you. The conditions have been right for this. Receive your own opening.",
-    "closing": "I open without apology. What is blooming in me is meant to bloom. I receive my own fullness. Amen."
+    "closing": "I open without apology. What is blooming in me is meant to bloom. I receive my own fullness. Amen.",
+    "scripture": {
+      "text": "Your will be done on earth as it is in heaven.",
+      "citation": "MATTHEW 6:10"
+    }
   },
   {
     "day": 13,
     "title": "Deep Water",
     "theme": "Depth",
     "reflection": "In the deep places of the ocean, where light does not reach, life is still abundant — strange, adapted, luminous in its own way. Depth is not absence. It is a different kind of fullness.\n\nAs you move toward your fullest season, do not abandon the depth you found in the quiet days. Carry it with you into the light.",
-    "closing": "Let me carry the depth of the dark waters into the bright season ahead. Deep-rooted, open-faced. Amen."
+    "closing": "Let me carry the depth of the dark waters into the bright season ahead. Deep-rooted, open-faced. Amen.",
+    "scripture": {
+      "text": "He gives strength to the weary and increases the power of the weak.",
+      "citation": "ISAIAH 40:29"
+    }
   },
   {
     "day": 14,
     "title": "Full Sun",
     "theme": "Fullness",
     "reflection": "At the height of summer, the sun is fully given — its light lasting long into the evening, its warmth accumulated in stones and soil, its energy driving the great green machinery of growth.\n\nYou are in your full-sun days. You have energy to give, light to share. Do not hoard it. The sun does not hoard its light.",
-    "closing": "I am fully given today — not depleted, but generous. Let my light reach what needs warming. Amen."
+    "closing": "I am fully given today — not depleted, but generous. Let my light reach what needs warming. Amen.",
+    "scripture": {
+      "text": "The heavens declare the glory of God; the skies proclaim the work of his hands.",
+      "citation": "PSALM 19:1"
+    }
   },
   {
     "day": 15,
     "title": "The Garden",
     "theme": "Tending",
     "reflection": "A garden requires tending — not anxious management, but attentive presence. The gardener notices what needs water, what needs pruning, what is ready to harvest and what needs more time.\n\nWho in your life needs tending today? Not fixing — tending. The gardener's art is attention, not intervention.",
-    "closing": "Let me tend what is in my care with patience and attention. I am a gardener, not an engineer. Amen."
+    "closing": "Let me tend what is in my care with patience and attention. I am a gardener, not an engineer. Amen.",
+    "scripture": {
+      "text": "How great is the love the Father has lavished on us.",
+      "citation": "1 JOHN 3:1"
+    }
   },
   {
     "day": 16,
     "title": "Wind",
     "theme": "Movement",
     "reflection": "Wind is invisible but not unfelt. You cannot hold it or see it, only notice what it moves — the grasses, the leaves, the surface of water.\n\nSomething is moving through you today. You may not be able to name it fully. That is all right. Notice what it is moving in you, and let it pass through.",
-    "closing": "Something moves through me that I cannot name. I let it move. I trust its passage. Amen."
+    "closing": "Something moves through me that I cannot name. I let it move. I trust its passage. Amen.",
+    "scripture": {
+      "text": "The whole earth is filled with awe at your wonders.",
+      "citation": "PSALM 65:8"
+    }
   },
   {
     "day": 17,
     "title": "The Season Turning",
     "theme": "Transition",
     "reflection": "The moment when summer tips into autumn is imperceptible — a single degree in the angle of light, a slight cooling of the air. And yet everything changes, slowly, from that turning point.\n\nYou are at a tipping point. The change is underway before you fully feel it. Trust the season's own timing.",
-    "closing": "I trust the turning I can barely feel. The seasons know their own rhythm. I am part of that rhythm. Amen."
+    "closing": "I trust the turning I can barely feel. The seasons know their own rhythm. I am part of that rhythm. Amen.",
+    "scripture": {
+      "text": "Let us not grow weary of doing good, for in due season we will reap, if we do not give up.",
+      "citation": "GALATIANS 6:9"
+    }
   },
   {
     "day": 18,
     "title": "The Interior Forest",
     "theme": "Interiority",
     "reflection": "In every old forest there is a dark interior — far from the edge, where the light is filtered and the sound is absorbed by layers of leaf and bark. It is quieter here. It is older here.\n\nYou are entering your interior forest. Do not be afraid of the dimness. Your eyes will adjust. What lives here is worth knowing.",
-    "closing": "I enter the interior forest without fearing the dark. What lives here belongs to me. I am ready to know it. Amen."
+    "closing": "I enter the interior forest without fearing the dark. What lives here belongs to me. I am ready to know it. Amen.",
+    "scripture": {
+      "text": "If I go up to the heavens, you are there; if I make my bed in the depths, you are there.",
+      "citation": "PSALM 139:8"
+    }
   },
   {
     "day": 19,
     "title": "The Harvest",
     "theme": "Discernment",
     "reflection": "The harvest is not gathering everything — it is knowing what is ready, what needs more time, and what should be left for the birds. Discernment is the wisdom of the harvest.\n\nWhat in your life is ready to be gathered? What needs more time? What is not yours to keep?",
-    "closing": "Teach me the wisdom of the harvest — what to gather, what to leave, what to release. Amen."
+    "closing": "Teach me the wisdom of the harvest — what to gather, what to leave, what to release. Amen.",
+    "scripture": {
+      "text": "He has shown you, O mortal, what is good. And what does the Lord require of you?",
+      "citation": "MICAH 6:8"
+    }
   },
   {
     "day": 20,
     "title": "Composting",
     "theme": "Transformation",
     "reflection": "The compost heap is where what has died becomes food for what will live. Nothing is wasted in a healthy ecosystem — even decay is generative.\n\nWhat in you has died this cycle? What grief, disappointment, or ending is composting — being broken down into something that will feed the next season?",
-    "closing": "What is dying in me is not wasted. Let it compost into something that nourishes what comes next. Amen."
+    "closing": "What is dying in me is not wasted. Let it compost into something that nourishes what comes next. Amen.",
+    "scripture": {
+      "text": "Even the darkness will not be dark to you; the night will shine like the day.",
+      "citation": "PSALM 139:12"
+    }
   },
   {
     "day": 21,
     "title": "Equinox",
     "theme": "Balance",
     "reflection": "At the equinox, day and night are equal — a rare moment of balance in a year of constant tilting. The balance does not last; the tilt resumes. But the equinox matters.\n\nFind your equinox today. What would balance feel like — even briefly? Not permanent resolution, but a moment of equal weight.",
-    "closing": "I seek the equinox within me — a moment of balance before the next season of tilt. Grant me this rest. Amen."
+    "closing": "I seek the equinox within me — a moment of balance before the next season of tilt. Grant me this rest. Amen.",
+    "scripture": {
+      "text": "As water reflects the face, so one’s life reflects the heart.",
+      "citation": "PROVERBS 27:19"
+    }
   },
   {
     "day": 22,
     "title": "What the Soil Knows",
     "theme": "Sufficiency",
     "reflection": "The soil does not worry about the next season's crops. It simply is what it is — rich or thin, ready or resting — and what it has, it gives.\n\nYou are enough today. You have what this day requires. Give what you have, without worrying about tomorrow's reserves.",
-    "closing": "I am what I am today. I give what I have. That is enough. Amen."
+    "closing": "I am what I am today. I give what I have. That is enough. Amen.",
+    "scripture": {
+      "text": "Be still before the Lord and wait patiently for him.",
+      "citation": "PSALM 37:7"
+    }
   },
   {
     "day": 23,
     "title": "Storm Passing",
     "theme": "Endurance",
     "reflection": "The old tree survives storms not by being rigid but by being rooted. It bends dramatically — it seems about to break — and then, when the wind passes, it stands.\n\nBend in this storm. You are not breaking. You are rooted in something the wind cannot reach.",
-    "closing": "I bend. I do not break. My roots hold. The storm will pass and I will stand. Amen."
+    "closing": "I bend. I do not break. My roots hold. The storm will pass and I will stand. Amen.",
+    "scripture": {
+      "text": "He spreads the snow like wool and scatters the frost like ashes.",
+      "citation": "PSALM 147:16"
+    }
   },
   {
     "day": 24,
     "title": "Underground Water",
     "theme": "Hidden Life",
     "reflection": "Beneath many landscapes, underground rivers flow — invisible from above, but sustaining the life on the surface. The spring that appears in the valley was moving underground long before it emerged into daylight.\n\nWhat is moving underground in you — not yet visible, but sustaining what you see on the surface?",
-    "closing": "There is more flowing in me than I can see. I trust the underground river. It will surface when the time is right. Amen."
+    "closing": "There is more flowing in me than I can see. I trust the underground river. It will surface when the time is right. Amen.",
+    "scripture": {
+      "text": "I wait for the Lord, my whole being waits, and in his word I put my hope.",
+      "citation": "PSALM 130:5"
+    }
   },
   {
     "day": 25,
     "title": "Lichen",
     "theme": "Patience",
     "reflection": "Lichen grows at the rate of a millimetre per year on bare rock. It is among the oldest living things on earth — patient, persistent, quietly breaking down what seemed inviolable.\n\nYour patient, persistent presence — in your own life, in the lives of others — is lichen work. It does not look like much. It is transforming everything.",
-    "closing": "Let me do my lichen work — slow, patient, transformative, unspectacular. That is enough. Amen."
+    "closing": "Let me do my lichen work — slow, patient, transformative, unspectacular. That is enough. Amen.",
+    "scripture": {
+      "text": "Are not five sparrows sold for two pennies? Yet not one of them is forgotten by God.",
+      "citation": "LUKE 12:6"
+    }
   },
   {
     "day": 26,
     "title": "Bare Branches",
     "theme": "Honesty",
     "reflection": "In winter, when the leaves are gone, you can see the structure of the tree — the true shape, the branching pattern, the wounds and scars. The bare branch is an honest thing.\n\nWhat is the true structure of your life right now, stripped of its foliage? What does the bare branch reveal that the full leaf has been hiding?",
-    "closing": "Show me my true structure. I am not afraid of bare branches. Honest is beautiful too. Amen."
+    "closing": "Show me my true structure. I am not afraid of bare branches. Honest is beautiful too. Amen.",
+    "scripture": {
+      "text": "Blessed is the one who trusts in the Lord. They will be like a tree planted by the water.",
+      "citation": "JEREMIAH 17:7–8"
+    }
   },
   {
     "day": 27,
     "title": "Migratory Instinct",
     "theme": "Faithfulness",
     "reflection": "The migratory bird does not choose to migrate. It responds to a pull written into its bones — an ancient faithfulness to a pattern it did not design.\n\nYou are faithful to rhythms you did not choose. This cycle, this prayer, this returning — it is your migration. You are being true to what is written into your nature.",
-    "closing": "I follow the pull written into me. I am faithful to the migration, even when the sky is grey. Amen."
+    "closing": "I follow the pull written into me. I am faithful to the migration, even when the sky is grey. Amen.",
+    "scripture": {
+      "text": "As the rain and the snow come down from heaven… so is my word that goes out from my mouth.",
+      "citation": "ISAIAH 55:10"
+    }
   },
   {
     "day": 28,
     "title": "The Year's Circle",
     "theme": "Completion",
     "reflection": "The year is a circle: it ends where it begins, and what looks like an ending is always also a returning. You have moved through your own circle — through the phases, the seasons, the releasing and the renewing.\n\nHonour the circle. You completed it. The same circle awaits — but you are different now, and you will meet it differently.",
-    "closing": "I have moved around the circle. I return changed. I receive the next turning with gratitude. Amen."
+    "closing": "I have moved around the circle. I return changed. I receive the next turning with gratitude. Amen.",
+    "scripture": {
+      "text": "Unless a grain of wheat falls into the earth and dies, it remains alone; but if it dies, it bears much fruit.",
+      "citation": "JOHN 12:24"
+    }
   },
   {
     "day": 29,
     "title": "Still Water",
     "theme": "Stillness",
     "reflection": "Still water reflects most clearly. In motion, the surface is broken and images distort. But in stillness, the water becomes a mirror — showing the sky, the trees, the things that stand over it.\n\nIn this waiting, your stillness is a gift. What is being reflected in you right now that could not be seen when you were in motion?",
-    "closing": "Still me so I can see clearly. Let my stillness be a mirror for what is true. Amen."
+    "closing": "Still me so I can see clearly. Let my stillness be a mirror for what is true. Amen.",
+    "scripture": {
+      "text": "The creation waits in eager expectation for the children of God to be revealed.",
+      "citation": "ROMANS 8:19"
+    }
   },
   {
     "day": 30,
     "title": "The Seed Underground",
     "theme": "Trust",
     "reflection": "The seed underground does not know it will become a tree. It simply responds to warmth, moisture, the dark — doing what it is designed to do, trustfully, without the full picture.\n\nYou do not need the full picture. You need only to respond to what is present — warmth, moisture, the dark — doing what you are designed to do.",
-    "closing": "I trust the dark, the warmth, the design in me. I grow without knowing the full picture. Amen."
+    "closing": "I trust the dark, the warmth, the design in me. I grow without knowing the full picture. Amen.",
+    "scripture": {
+      "text": "Look at the birds of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them.",
+      "citation": "MATTHEW 6:26"
+    }
   },
   {
     "day": 31,
     "title": "Fog",
     "theme": "Mystery",
     "reflection": "Fog reduces visibility to a few feet. You cannot see the path ahead or the horizon. But you can always see the next step.\n\nYou only need the next step. The fog is not permanent; it will lift. Until it does, move by what is visible directly in front of you.",
-    "closing": "I move through the fog by the step I can see. I do not need the whole path to take the next step. Amen."
+    "closing": "I move through the fog by the step I can see. I do not need the whole path to take the next step. Amen.",
+    "scripture": {
+      "text": "The wind blows wherever it pleases. You hear its sound, but you cannot tell where it comes from or where it is going.",
+      "citation": "JOHN 3:8"
+    }
   },
   {
     "day": 32,
     "title": "Ripening",
     "theme": "Preparation",
     "reflection": "Fruit does not rush its ripening. It accumulates sweetness over time, in its own season, according to its own nature. Forced to ripen early, it is never quite right.\n\nWhat in you is ripening? Not yet ready — but ripening. Give it its season. Do not force what needs time.",
-    "closing": "Let what is ripening in me take its full time. I will not force it early. The sweetness is worth waiting for. Amen."
+    "closing": "Let what is ripening in me take its full time. I will not force it early. The sweetness is worth waiting for. Amen.",
+    "scripture": {
+      "text": "Prepare the way of the Lord; make straight in the desert a highway for our God.",
+      "citation": "ISAIAH 40:3"
+    }
   },
   {
     "day": 33,
     "title": "The Patient Earth",
     "theme": "Endurance",
     "reflection": "The earth endures everything: drought and flood, planting and harvest, human activity and natural disaster — and in the long view, it continues. It does not give up on its own nature.\n\nEndure today with the patience of the earth. You have survived every previous storm. Your nature is intact. Continue.",
-    "closing": "With the patience of the earth, I endure. My nature is intact. I continue. Amen."
+    "closing": "With the patience of the earth, I endure. My nature is intact. I continue. Amen.",
+    "scripture": {
+      "text": "He who watches over you will not slumber.",
+      "citation": "PSALM 121:3"
+    }
   },
   {
     "day": 34,
     "title": "The Mycorrhizal Network",
     "theme": "Interconnection",
     "reflection": "Beneath a forest floor, trees are connected by fungal networks — passing nutrients, water, even signals of distress through a web invisible above ground. No tree stands entirely alone.\n\nYou are part of a network, whether or not you can see it. What sustains you from below? What might you be sustaining in others without knowing it?",
-    "closing": "I am connected to what I cannot see. Let me receive what is being offered through the hidden network. Amen."
+    "closing": "I am connected to what I cannot see. Let me receive what is being offered through the hidden network. Amen.",
+    "scripture": {
+      "text": "Two are better than one. If either of them falls down, one can help the other up.",
+      "citation": "ECCLESIASTES 4:9–10"
+    }
   },
   {
     "day": 35,
     "title": "Moss",
     "theme": "Faithfulness",
     "reflection": "Moss grows on the shaded, damp, overlooked surfaces — patient, soft, persistent. It does not grow in the best conditions. It grows in whatever conditions are given.\n\nGrow in the conditions you have. Do not wait for ideal circumstances to do your faithful, quiet work.",
-    "closing": "I grow in the conditions I have been given. My faithfulness does not require ideal circumstances. Amen."
+    "closing": "I grow in the conditions I have been given. My faithfulness does not require ideal circumstances. Amen.",
+    "scripture": {
+      "text": "His compassions never fail. They are new every morning; great is your faithfulness.",
+      "citation": "LAMENTATIONS 3:22–23"
+    }
   },
   {
     "day": 36,
     "title": "Returning Light",
     "theme": "Hope",
     "reflection": "After the winter solstice, the days grow longer — barely, at first, by seconds. But the direction has changed. The light is returning.\n\nThe direction has changed in you too. Whatever the length of this waiting, the light is returning. Notice the extra seconds. They count.",
-    "closing": "The light is returning. I notice the extra seconds. I receive the change of direction as promise. Amen."
+    "closing": "The light is returning. I notice the extra seconds. I receive the change of direction as promise. Amen.",
+    "scripture": {
+      "text": "The Lord your God is with you, the Mighty Warrior who saves.",
+      "citation": "ZEPHANIAH 3:17"
+    }
   },
   {
     "day": 37,
     "title": "Before the Rain",
     "theme": "Anticipation",
     "reflection": "There is a particular quality to the air before rain — a pressure, a stillness, a charged quality that signals something is coming. The body knows it before the mind does.\n\nSomething is coming. Your body may already know. Receive the charged quality of this moment as promise, not foreboding.",
-    "closing": "I sense what is coming before I can see it. I receive the charge in the air as anticipation, not dread. Amen."
+    "closing": "I sense what is coming before I can see it. I receive the charge in the air as anticipation, not dread. Amen.",
+    "scripture": {
+      "text": "Behold, I am making all things new.",
+      "citation": "REVELATION 21:5"
+    }
   },
   {
     "day": 38,
     "title": "The Returning",
     "theme": "New Beginning",
     "reflection": "In nature, nothing truly ends — it transforms. The fallen log becomes the forest floor. The dead leaf becomes the soil. The river reaches the sea and rises as cloud and falls as rain.\n\nYou are beginning again — not from zero, but from what you have become. The cycle turns. You are part of the turning.",
-    "closing": "I return to the beginning changed by the journey. What I have been, I carry into what I will be. The cycle turns. Amen."
+    "closing": "I return to the beginning changed by the journey. What I have been, I carry into what I will be. The cycle turns. Amen.",
+    "scripture": {
+      "text": "Forget the former things; do not dwell on the past. See, I am doing a new thing!",
+      "citation": "ISAIAH 43:18–19"
+    }
   }
 ]
