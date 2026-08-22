@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-06-19",
+  "updatedAt": "2026-08-22",
   "paths": [
     "consolation",
     "ignatian",
@@ -8,5 +8,9 @@
     "pilgrimage",
     "rest",
     "scripture"
-  ]
+  ],
+  "journeys": {
+    "turning": ["consolation", "ignatian", "nature", "pilgrimage", "rest", "scripture"],
+    "wide_country": ["consolation", "ignatian", "nature", "pilgrimage", "rest", "scripture"]
+  }
 }
